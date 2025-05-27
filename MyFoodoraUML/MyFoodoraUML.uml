@@ -9,7 +9,19 @@
     </ownedAttribute>
   </packagedElement>
   <packagedElement xmi:type="uml:Class" xmi:id="_XbaxADsDEfCnUL5MiNuyqg" name="Couriers">
-    <ownedAttribute xmi:type="uml:Property" xmi:id="_hqzWIDsDEfCnUL5MiNuyqg" name="Position" visibility="private"/>
-    <ownedOperation xmi:type="uml:Operation" xmi:id="_rDOeEDsDEfCnUL5MiNuyqg" name="setPosition"/>
+    <ownedAttribute xmi:type="uml:Property" xmi:id="_hqzWIDsDEfCnUL5MiNuyqg" name="Position" visibility="private" type="_9NK0EDsFEfCnUL5MiNuyqg" aggregation="composite"/>
+    <ownedAttribute xmi:type="uml:Property" xmi:id="_gzd-IDsGEfCnUL5MiNuyqg" name="phoneNumber" visibility="private">
+      <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+    </ownedAttribute>
+    <ownedAttribute xmi:type="uml:Property" xmi:id="_N5t0cDsHEfCnUL5MiNuyqg" name="Property3"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Class" xmi:id="_9NK0EDsFEfCnUL5MiNuyqg" name="Point2D">
+    <ownedAttribute xmi:type="uml:Property" xmi:id="_CnHUQDsGEfCnUL5MiNuyqg" name="x" visibility="private">
+      <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Real"/>
+    </ownedAttribute>
+    <ownedAttribute xmi:type="uml:Property" xmi:id="_Q8A9QDsGEfCnUL5MiNuyqg" name="y" visibility="private">
+      <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#Real"/>
+    </ownedAttribute>
+    <ownedOperation xmi:type="uml:Operation" xmi:id="_TTRIgDsGEfCnUL5MiNuyqg" name="distance"/>
   </packagedElement>
 </uml:Model>
