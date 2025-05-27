@@ -33,6 +33,40 @@
     <element xmi:type="uml:Class" href="MyFoodoraUML.uml#_aaXAoDr-EfCxArnOHeIGjA"/>
     <layoutConstraint xmi:type="notation:Bounds" xmi:id="_abOjUTr-EfCxArnOHeIGjA" x="180" y="120" width="161" height="181"/>
   </children>
+  <children xmi:type="notation:Shape" xmi:id="_XblwIDsDEfCnUL5MiNuyqg" type="Class_Shape">
+    <children xmi:type="notation:DecorationNode" xmi:id="_XbozcDsDEfCnUL5MiNuyqg" type="Class_NameLabel"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_XbozcTsDEfCnUL5MiNuyqg" type="Class_FloatingNameLabel">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_XbpagDsDEfCnUL5MiNuyqg" y="15"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_XbqBkDsDEfCnUL5MiNuyqg" type="Class_AttributeCompartment">
+      <children xmi:type="notation:Shape" xmi:id="_hrFqADsDEfCnUL5MiNuyqg" type="Property_ClassAttributeLabel">
+        <element xmi:type="uml:Property" href="MyFoodoraUML.uml#_hqzWIDsDEfCnUL5MiNuyqg"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_hrFqATsDEfCnUL5MiNuyqg"/>
+      </children>
+      <styles xmi:type="notation:TitleStyle" xmi:id="_XbqBkTsDEfCnUL5MiNuyqg"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_XbqBkjsDEfCnUL5MiNuyqg"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_XbqBkzsDEfCnUL5MiNuyqg"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_XbqBlDsDEfCnUL5MiNuyqg"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_XbqBlTsDEfCnUL5MiNuyqg" type="Class_OperationCompartment">
+      <children xmi:type="notation:Shape" xmi:id="_rDXoADsDEfCnUL5MiNuyqg" type="Operation_ClassOperationLabel">
+        <element xmi:type="uml:Operation" href="MyFoodoraUML.uml#_rDOeEDsDEfCnUL5MiNuyqg"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_rDXoATsDEfCnUL5MiNuyqg"/>
+      </children>
+      <styles xmi:type="notation:TitleStyle" xmi:id="_XbqBljsDEfCnUL5MiNuyqg"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_XbqBlzsDEfCnUL5MiNuyqg"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_XbqBmDsDEfCnUL5MiNuyqg"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_XbqBmTsDEfCnUL5MiNuyqg"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_XbqBmjsDEfCnUL5MiNuyqg" type="Class_NestedClassifierCompartment">
+      <styles xmi:type="notation:TitleStyle" xmi:id="_XbqBmzsDEfCnUL5MiNuyqg"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_XbqBnDsDEfCnUL5MiNuyqg"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_XbqBnTsDEfCnUL5MiNuyqg"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_XbqBnjsDEfCnUL5MiNuyqg"/>
+    </children>
+    <element xmi:type="uml:Class" href="MyFoodoraUML.uml#_XbaxADsDEfCnUL5MiNuyqg"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_XblwITsDEfCnUL5MiNuyqg" x="540" y="140" width="221" height="158"/>
+  </children>
   <styles xmi:type="notation:StringValueStyle" xmi:id="_Y5BGgTr6EfCfjvu1kPLutA" name="diagram_compatibility_version" stringValue="1.4.0"/>
   <styles xmi:type="notation:DiagramStyle" xmi:id="_Y5BGgjr6EfCfjvu1kPLutA"/>
   <styles xmi:type="style:PapyrusDiagramStyle" xmi:id="_Y5BGgzr6EfCfjvu1kPLutA" diagramKindId="org.eclipse.papyrus.uml.diagram.class">
