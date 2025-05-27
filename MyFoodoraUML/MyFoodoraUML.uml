@@ -3,4 +3,7 @@
   <packageImport xmi:type="uml:PackageImport" xmi:id="_Y_HugDr6EfCfjvu1kPLutA">
     <importedPackage xmi:type="uml:Model" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#_0"/>
   </packageImport>
+  <packagedElement xmi:type="uml:Class" xmi:id="_aaXAoDr-EfCxArnOHeIGjA" name="Customer">
+    <ownedAttribute xmi:type="uml:Property" xmi:id="_-dcicDsAEfCxArnOHeIGjA" name="email" visibility="private"/>
+  </packagedElement>
 </uml:Model>
