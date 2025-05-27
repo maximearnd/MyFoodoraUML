@@ -31,7 +31,7 @@
       <layoutConstraint xmi:type="notation:Bounds" xmi:id="_abisbjr-EfCxArnOHeIGjA"/>
     </children>
     <element xmi:type="uml:Class" href="MyFoodoraUML.uml#_aaXAoDr-EfCxArnOHeIGjA"/>
-    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_abOjUTr-EfCxArnOHeIGjA" x="120" y="120" width="161" height="181"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_abOjUTr-EfCxArnOHeIGjA" x="180" y="120" width="161" height="181"/>
   </children>
   <children xmi:type="notation:Shape" xmi:id="_XblwIDsDEfCnUL5MiNuyqg" type="Class_Shape">
     <children xmi:type="notation:DecorationNode" xmi:id="_XbozcDsDEfCnUL5MiNuyqg" type="Class_NameLabel"/>
@@ -43,20 +43,16 @@
         <element xmi:type="uml:Property" href="MyFoodoraUML.uml#_hqzWIDsDEfCnUL5MiNuyqg"/>
         <layoutConstraint xmi:type="notation:Location" xmi:id="_hrFqATsDEfCnUL5MiNuyqg"/>
       </children>
-      <children xmi:type="notation:Shape" xmi:id="_gzpkUDsGEfCnUL5MiNuyqg" type="Property_ClassAttributeLabel">
-        <element xmi:type="uml:Property" href="MyFoodoraUML.uml#_gzd-IDsGEfCnUL5MiNuyqg"/>
-        <layoutConstraint xmi:type="notation:Location" xmi:id="_gzpkUTsGEfCnUL5MiNuyqg"/>
-      </children>
-      <children xmi:type="notation:Shape" xmi:id="_N5-6MDsHEfCnUL5MiNuyqg" type="Property_ClassAttributeLabel">
-        <element xmi:type="uml:Property" href="MyFoodoraUML.uml#_N5t0cDsHEfCnUL5MiNuyqg"/>
-        <layoutConstraint xmi:type="notation:Location" xmi:id="_N5-6MTsHEfCnUL5MiNuyqg"/>
-      </children>
       <styles xmi:type="notation:TitleStyle" xmi:id="_XbqBkTsDEfCnUL5MiNuyqg"/>
       <styles xmi:type="notation:SortingStyle" xmi:id="_XbqBkjsDEfCnUL5MiNuyqg"/>
       <styles xmi:type="notation:FilteringStyle" xmi:id="_XbqBkzsDEfCnUL5MiNuyqg"/>
       <layoutConstraint xmi:type="notation:Bounds" xmi:id="_XbqBlDsDEfCnUL5MiNuyqg"/>
     </children>
     <children xmi:type="notation:BasicCompartment" xmi:id="_XbqBlTsDEfCnUL5MiNuyqg" type="Class_OperationCompartment">
+      <children xmi:type="notation:Shape" xmi:id="_rDXoADsDEfCnUL5MiNuyqg" type="Operation_ClassOperationLabel">
+        <element xmi:type="uml:Operation" href="MyFoodoraUML.uml#_rDOeEDsDEfCnUL5MiNuyqg"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_rDXoATsDEfCnUL5MiNuyqg"/>
+      </children>
       <styles xmi:type="notation:TitleStyle" xmi:id="_XbqBljsDEfCnUL5MiNuyqg"/>
       <styles xmi:type="notation:SortingStyle" xmi:id="_XbqBlzsDEfCnUL5MiNuyqg"/>
       <styles xmi:type="notation:FilteringStyle" xmi:id="_XbqBmDsDEfCnUL5MiNuyqg"/>
@@ -69,45 +65,33 @@
       <layoutConstraint xmi:type="notation:Bounds" xmi:id="_XbqBnjsDEfCnUL5MiNuyqg"/>
     </children>
     <element xmi:type="uml:Class" href="MyFoodoraUML.uml#_XbaxADsDEfCnUL5MiNuyqg"/>
-    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_XblwITsDEfCnUL5MiNuyqg" x="380" y="120" width="201" height="181"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_XblwITsDEfCnUL5MiNuyqg" x="540" y="140" width="221" height="158"/>
   </children>
-  <children xmi:type="notation:Shape" xmi:id="_9NN3YDsFEfCnUL5MiNuyqg" type="Class_Shape">
-    <children xmi:type="notation:DecorationNode" xmi:id="_9NOecDsFEfCnUL5MiNuyqg" type="Class_NameLabel"/>
-    <children xmi:type="notation:DecorationNode" xmi:id="_9NOecTsFEfCnUL5MiNuyqg" type="Class_FloatingNameLabel">
-      <layoutConstraint xmi:type="notation:Location" xmi:id="_9NOecjsFEfCnUL5MiNuyqg" y="15"/>
+  <children xmi:type="notation:Shape" xmi:id="_49eOkDsHEfCDCKv2lUMZJA" type="Class_Shape">
+    <children xmi:type="notation:DecorationNode" xmi:id="_49gq0DsHEfCDCKv2lUMZJA" type="Class_NameLabel"/>
+    <children xmi:type="notation:DecorationNode" xmi:id="_49hR4DsHEfCDCKv2lUMZJA" type="Class_FloatingNameLabel">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_49hR4TsHEfCDCKv2lUMZJA" y="15"/>
     </children>
-    <children xmi:type="notation:BasicCompartment" xmi:id="_9NPFgDsFEfCnUL5MiNuyqg" type="Class_AttributeCompartment">
-      <children xmi:type="notation:Shape" xmi:id="_CnThgDsGEfCnUL5MiNuyqg" type="Property_ClassAttributeLabel">
-        <element xmi:type="uml:Property" href="MyFoodoraUML.uml#_CnHUQDsGEfCnUL5MiNuyqg"/>
-        <layoutConstraint xmi:type="notation:Location" xmi:id="_CnThgTsGEfCnUL5MiNuyqg"/>
-      </children>
-      <children xmi:type="notation:Shape" xmi:id="_Q8I5EDsGEfCnUL5MiNuyqg" type="Property_ClassAttributeLabel">
-        <element xmi:type="uml:Property" href="MyFoodoraUML.uml#_Q8A9QDsGEfCnUL5MiNuyqg"/>
-        <layoutConstraint xmi:type="notation:Location" xmi:id="_Q8I5ETsGEfCnUL5MiNuyqg"/>
-      </children>
-      <styles xmi:type="notation:TitleStyle" xmi:id="_9NPFgTsFEfCnUL5MiNuyqg"/>
-      <styles xmi:type="notation:SortingStyle" xmi:id="_9NPFgjsFEfCnUL5MiNuyqg"/>
-      <styles xmi:type="notation:FilteringStyle" xmi:id="_9NPFgzsFEfCnUL5MiNuyqg"/>
-      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_9NPFhDsFEfCnUL5MiNuyqg"/>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_49h48DsHEfCDCKv2lUMZJA" type="Class_AttributeCompartment">
+      <styles xmi:type="notation:TitleStyle" xmi:id="_49h48TsHEfCDCKv2lUMZJA"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_49h48jsHEfCDCKv2lUMZJA"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_49h48zsHEfCDCKv2lUMZJA"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_49h49DsHEfCDCKv2lUMZJA"/>
     </children>
-    <children xmi:type="notation:BasicCompartment" xmi:id="_9NPFhTsFEfCnUL5MiNuyqg" type="Class_OperationCompartment">
-      <children xmi:type="notation:Shape" xmi:id="_TTa5gDsGEfCnUL5MiNuyqg" type="Operation_ClassOperationLabel">
-        <element xmi:type="uml:Operation" href="MyFoodoraUML.uml#_TTRIgDsGEfCnUL5MiNuyqg"/>
-        <layoutConstraint xmi:type="notation:Location" xmi:id="_TTa5gTsGEfCnUL5MiNuyqg"/>
-      </children>
-      <styles xmi:type="notation:TitleStyle" xmi:id="_9NPFhjsFEfCnUL5MiNuyqg"/>
-      <styles xmi:type="notation:SortingStyle" xmi:id="_9NPFhzsFEfCnUL5MiNuyqg"/>
-      <styles xmi:type="notation:FilteringStyle" xmi:id="_9NPFiDsFEfCnUL5MiNuyqg"/>
-      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_9NPFiTsFEfCnUL5MiNuyqg"/>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_49h49TsHEfCDCKv2lUMZJA" type="Class_OperationCompartment">
+      <styles xmi:type="notation:TitleStyle" xmi:id="_49h49jsHEfCDCKv2lUMZJA"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_49h49zsHEfCDCKv2lUMZJA"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_49h4-DsHEfCDCKv2lUMZJA"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_49h4-TsHEfCDCKv2lUMZJA"/>
     </children>
-    <children xmi:type="notation:BasicCompartment" xmi:id="_9NPFijsFEfCnUL5MiNuyqg" type="Class_NestedClassifierCompartment">
-      <styles xmi:type="notation:TitleStyle" xmi:id="_9NPFizsFEfCnUL5MiNuyqg"/>
-      <styles xmi:type="notation:SortingStyle" xmi:id="_9NPFjDsFEfCnUL5MiNuyqg"/>
-      <styles xmi:type="notation:FilteringStyle" xmi:id="_9NPFjTsFEfCnUL5MiNuyqg"/>
-      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_9NPFjjsFEfCnUL5MiNuyqg"/>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_49h4-jsHEfCDCKv2lUMZJA" type="Class_NestedClassifierCompartment">
+      <styles xmi:type="notation:TitleStyle" xmi:id="_49h4-zsHEfCDCKv2lUMZJA"/>
+      <styles xmi:type="notation:SortingStyle" xmi:id="_49h4_DsHEfCDCKv2lUMZJA"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_49h4_TsHEfCDCKv2lUMZJA"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_49h4_jsHEfCDCKv2lUMZJA"/>
     </children>
-    <element xmi:type="uml:Class" href="MyFoodoraUML.uml#_9NK0EDsFEfCnUL5MiNuyqg"/>
-    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_9NN3YTsFEfCnUL5MiNuyqg" x="660" y="120" width="160" height="180"/>
+    <element xmi:type="uml:Class" href="MyFoodoraUML.uml#_49UdkDsHEfCDCKv2lUMZJA"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_49eOkTsHEfCDCKv2lUMZJA" x="426" y="160"/>
   </children>
   <styles xmi:type="notation:StringValueStyle" xmi:id="_Y5BGgTr6EfCfjvu1kPLutA" name="diagram_compatibility_version" stringValue="1.4.0"/>
   <styles xmi:type="notation:DiagramStyle" xmi:id="_Y5BGgjr6EfCfjvu1kPLutA"/>

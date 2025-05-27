@@ -26,4 +26,5 @@
     </ownedAttribute>
     <ownedOperation xmi:type="uml:Operation" xmi:id="_TTRIgDsGEfCnUL5MiNuyqg" name="distance"/>
   </packagedElement>
+  <packagedElement xmi:type="uml:Class" xmi:id="_49UdkDsHEfCDCKv2lUMZJA" name="Class5"/>
 </uml:Model>
