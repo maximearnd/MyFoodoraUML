@@ -9,6 +9,10 @@
       <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_UO9Y4Dr_EfCxArnOHeIGjA" source="PapyrusCSSForceValue">
         <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_UO9Y4Tr_EfCxArnOHeIGjA" key="collapsed" value="true"/>
       </eAnnotations>
+      <children xmi:type="notation:Shape" xmi:id="_GTe1IDsCEfCxArnOHeIGjA" type="Property_ClassAttributeLabel">
+        <element xmi:type="uml:Property" href="MyFoodoraUML.uml#_GTQysDsCEfCxArnOHeIGjA"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_GTe1ITsCEfCxArnOHeIGjA"/>
+      </children>
       <styles xmi:type="notation:TitleStyle" xmi:id="_abisYTr-EfCxArnOHeIGjA"/>
       <styles xmi:type="notation:SortingStyle" xmi:id="_abisYjr-EfCxArnOHeIGjA"/>
       <styles xmi:type="notation:FilteringStyle" xmi:id="_abisYzr-EfCxArnOHeIGjA"/>
